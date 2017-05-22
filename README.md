@@ -12,7 +12,7 @@ This is Project 5 of Udacity's Deep Learning Nanodegree Foundation Program. The 
 Hyperparameter          | Number |
 ----------------------- | ------ |
 Epochs                  | 1      |
-Batch size              | 128    |
+Batch size              | 64     |
 Learning rate           | 0.0002 |
 Z dimension             | 100    |
 Alpha                   | 0.1    |
